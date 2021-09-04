@@ -12,6 +12,5 @@ namespace School.API
 
         public string Summary { get; set; }
         public string Summary123 { get; set; }
-        public string Summary12ffffff3 { get; set; }
     }
 }
